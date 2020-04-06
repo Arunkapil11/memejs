@@ -5,11 +5,11 @@ const request = require('request-promise');
 const utils = require('./utils');
 
 const arr = [
-    'https://www.reddit.com/r/PUBGMobile'
+    'https://www.reddit.com/r/PUBGmobile/'
 ];
 
 const opts = [
-    'PUBGMobile'
+    'PUBGmobile'
 ];
 
 exports.meme = (sr, callback) => {
