@@ -5,36 +5,12 @@ const request = require('request-promise');
 const utils = require('./utils');
 
 const arr = [
-    'https://www.reddit.com/r/crappydesign/',
-    'https://www.reddit.com/r/dankmemes/',
-    'https://www.reddit.com/r/me_irl/',
-    'https://www.reddit.com/r/wholesomememes/',
-    'https://www.reddit.com/r/memeeconomy/',
-    'https://www.reddit.com/r/adviceanimals',
-    'https://www.reddit.com/r/comedycemetery',
-    'https://www.reddit.com/r/memes/',
-    'https://www.reddit.com/r/prequelmemes/',
-    'https://www.reddit.com/r/terriblefacebookmemes/',
-    'https://www.reddit.com/r/pewdiepiesubmissions/',
-    'https://www.reddit.com/r/funny/',
-    'https://www.reddit.com/r/teenagers/'
+    'https://www.reddit.com/r/PUBGMobile/'
     
 ];
 
 const opts = [
-    'crappydesign',
-    'dankmemes',
-    'me_irl',
-    'wholesomememes',
-    'memeeconomy',
-    'adviceanimals',
-    'comedycemetery',
-    'memes',
-    'prequelmemes',
-    'terriblefacebookmemes',
-    'pewdiepiesubmissions',
-    'funny',
-    'teenagers'
+    'PUBGMobile'
 ];
 
 exports.meme = (sr, callback) => {
