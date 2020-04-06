@@ -1,3 +1,4 @@
+
 {
   "name": "memejs",
   "version": "1.2.1",
@@ -25,17 +26,4 @@
   }
 }
 
-  "keywords": [
-    "Memes"
-  ],
-  "author": "Nuriel Taha",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Nuno135/memejs/issues"
-  },
-  "homepage": "https://github.com/Nuno135/memejs#readme",
-  "dependencies": {
-    "request": "^2.88.2",
-    "request-promise": "^4.2.5"
-  }
-}
+ 
