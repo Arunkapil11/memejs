@@ -1,15 +1,5 @@
+
 {
-  "name": "memejs",
-  "version": "1.2.0",
-  "description": "Retrieve memes easily from reddit.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Nuno135/memejs.git"
-  },{
   "name": "memejs",
   "version": "1.2.1",
   "description": "Retrieve memes easily from reddit.",
