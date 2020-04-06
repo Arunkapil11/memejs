@@ -6,7 +6,6 @@ const utils = require('./utils');
 
 const arr = [
     'https://www.reddit.com/r/PUBGMobile/'
-    
 ];
 
 const opts = [
